@@ -32,14 +32,14 @@ body{
 /******************/
 
 @media (min-width:360px){
-	.bgimg{
+/* 	.bgimg{
 		background-image: url("../img/intro.png");
 		background-size: cover;
 		background-repeat: no-repeat;
 		background-position: top right;
 		background-color: #252525;
 		height:1080px;
-	}
+	} */
 }
 
 .bgimg{
